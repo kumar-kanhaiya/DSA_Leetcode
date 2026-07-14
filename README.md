@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
