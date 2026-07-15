@@ -7,7 +7,7 @@ class Solution {
         if(odd == even){
             return odd;
         }
-        for(int i = 1; i <= min/2 ; i++){
+        for(int i = 1; i <= Math.sqrt(min) ; i++){
             if(odd%i == 0  && even%i == 0){
                 ans = i;
             }
