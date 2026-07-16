@@ -29,6 +29,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,12 +61,14 @@
 | [0189-rotate-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0088-merge-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +106,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -120,6 +125,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
