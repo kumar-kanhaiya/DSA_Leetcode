@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -129,6 +131,7 @@
 | [0048-rotate-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
