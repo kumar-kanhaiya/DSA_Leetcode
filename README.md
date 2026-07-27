@@ -35,6 +35,7 @@
 | [1095-find-in-mountain-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
