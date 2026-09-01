@@ -20,13 +20,11 @@ class Solution {
 
     }
 
-    public static int helper(int[] arr, int divisor) {
-        long ans = 0;
-
-        for (int i = 0; i < arr.length; i++) {
-            ans += Math.ceil((double) arr[i] / divisor);
+    public static int helper(int[] nums, int mid) {
+        int sum = 0;
+        for(int num : nums){
+                sum += (num + mid - 1)/mid;
         }
-
-        return (int) ans;
+        return (int) sum;
     }
 }
