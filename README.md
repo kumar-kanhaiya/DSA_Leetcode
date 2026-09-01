@@ -35,6 +35,7 @@
 | [0875-koko-eating-bananas](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -58,6 +59,7 @@
 | [0704-binary-search](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
 |  |
