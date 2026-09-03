@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -129,6 +130,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -142,6 +144,7 @@
 | [0088-merge-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
