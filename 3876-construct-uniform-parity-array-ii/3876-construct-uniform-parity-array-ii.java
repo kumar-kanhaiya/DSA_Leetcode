@@ -11,9 +11,13 @@ class Solution {
         
     }
     public static boolean checkAllEven(int[] arr){
+    
         for(int i = 0 ; i < arr.length ; i++){
+            if(arr[i]%2 == 0){
+                continue;
+            } 
             boolean t = false;
-            for(int j = 0 ; j < arr.length ; j++){
+            for(int j = 0 ; j < i ; j++){
                 if(j == i){
                     continue;
                 }
@@ -31,8 +35,11 @@ class Solution {
     }
     public static boolean checkAllOdd(int[] arr){
         for(int i = 0 ; i < arr.length ; i++){
+            if(arr[i]%2 != 0){
+                continue;
+            }
             boolean t = false;
-            for(int j = 0 ; j < arr.length ; j++){
+            for(int j = 0 ; j < i ; j++){
                 if(i == j){
                     continue;
                 }
