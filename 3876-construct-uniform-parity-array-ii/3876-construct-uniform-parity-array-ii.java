@@ -1,59 +1,14 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        Arrays.sort(nums1);
-        if(nums1.length == 1 ){
-            return true;
+        int min = Integer.MAX_VALUE;
+        boolean check = true;
+        for(int num : nums1){
+            min = Math.min(num , min);
+            if(num%2 ==1){
+                check = false;
+            }
         }
-        if(nums1[0] %2 == 0){
-            return checkAllEven(nums1);
-        }
-        return checkAllOdd(nums1);
+        return check || min%2 == 1;
         
-    }
-    public static boolean checkAllEven(int[] arr){
-    
-        for(int i = 0 ; i < arr.length ; i++){
-            if(arr[i]%2 == 0){
-                continue;
-            } 
-            boolean t = false;
-            for(int j = 0 ; j < i ; j++){
-                if(j == i){
-                    continue;
-                }
-                int check = arr[i] - arr[j];
-                if((check%2 == 0 && check >=1) || arr[i]%2 == 0){
-                    t= true;
-                    break;
-                }
-            }
-            if(!t){
-                return false;
-            }
-        }
-        return true;
-    }
-    public static boolean checkAllOdd(int[] arr){
-        for(int i = 0 ; i < arr.length ; i++){
-            if(arr[i]%2 != 0){
-                continue;
-            }
-            boolean t = false;
-            for(int j = 0 ; j < i ; j++){
-                if(i == j){
-                    continue;
-                }
-                int check = arr[i] - arr[j];
-                if((check%2!= 0 && check>=1 ) || arr[i]%2 !=0 ){
-                    t = true;
-                    break;
-                }
-                
-            }
-            if(!t){
-                return false;
-            }
-        }
-        return true;
     }
 }
