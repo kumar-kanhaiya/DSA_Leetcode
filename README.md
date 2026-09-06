@@ -45,6 +45,7 @@
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -74,6 +75,7 @@
 | [1095-find-in-mountain-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
