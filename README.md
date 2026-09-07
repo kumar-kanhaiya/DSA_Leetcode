@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
