@@ -1,37 +1,37 @@
 class Solution {
-    public int splitArray(int[] arr, int k) {
-        int start = 0;
-        int end = 0;
-        for(int i = 0 ; i< arr.length  ; i++){
-            start = Math.max(start , arr[i]);
-            end += arr[i];
+    public int splitArray(int[] nums, int k) {
+        int low = Integer.MIN_VALUE;
+        int high = 0;
+        for(int num : nums){
+            low = Math.max(low , num);
+            high += num;
         }
-        // now implement the binary search 
-        while(start < end){
-            // try for the middle ans 
-            int mid = start + (end - start )/2;
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            int partition = calculatePartition(nums , mid);
 
-            // calculate how many peices divide this is with max sum
-            int sum = 0;
-            int peices = 1;
-            for(int num : arr){
-                if(sum + num > mid){
-                    // you cannot add this in this subarray make new one 
-                    // say you add this num in new array then sum = sum 
-                    sum = num;
-                    peices++;
-                }
-                else{
-                    sum += num;
-                }
-            }
-            if(peices > k){
-                start = mid +1;
+            if(partition > k){
+                low = mid +1;
             }
             else{
-                end = mid;
+                high = mid -1;
             }
         }
-        return end;
+        return low;
+        
+    }
+    public static int calculatePartition(int[] arr , int max){
+        int partition = 1;
+        int sum = 0;
+        for(int num : arr){
+            if(num + sum <= max){
+                sum += num;
+            }
+            else{
+                partition++;
+                sum = num;
+            }
+        }
+        return partition;
     }
 }
