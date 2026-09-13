@@ -52,6 +52,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -147,6 +148,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -247,4 +250,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
