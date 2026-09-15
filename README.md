@@ -189,6 +189,7 @@
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -224,6 +225,7 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
