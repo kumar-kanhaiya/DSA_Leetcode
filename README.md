@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -192,6 +193,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -273,4 +275,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
