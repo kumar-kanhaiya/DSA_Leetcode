@@ -3,17 +3,19 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        char[] arr = s.toCharArray();
-        char[] secondArr= t.toCharArray();
-        Arrays.sort(arr);
-        Arrays.sort(secondArr);
-        String first = "";
-        String second = "";
-        for(int i = 0 ; i < arr.length ; i++){
-            first = first + arr[i];
-            second += secondArr[i];
+        int[] count = new int[26];
+        for(int i = 0 ; i < s.length() ; i++){
+            count[s.charAt(i) - 'a'] += 1;
         }
-        return first.equals(second);
-        
+        for(int i = 0 ; i < t.length() ; i++){
+            count[t.charAt(i) - 'a'] -= 1;
+        }
+        // check 
+        for(int i = 0 ; i < count.length ; i++){
+            if(count[i] != 0){
+                return false;
+            }
+        }
+        return true;
     }
 }
