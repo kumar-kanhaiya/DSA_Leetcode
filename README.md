@@ -150,6 +150,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -166,6 +167,7 @@
 | [0075-sort-colors](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
@@ -197,6 +199,7 @@
 | [0014-longest-common-prefix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
