@@ -149,6 +149,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
