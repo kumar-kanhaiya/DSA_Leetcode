@@ -154,6 +154,7 @@
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -170,6 +171,7 @@
 | [0242-valid-anagram](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -251,6 +255,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -289,4 +294,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
