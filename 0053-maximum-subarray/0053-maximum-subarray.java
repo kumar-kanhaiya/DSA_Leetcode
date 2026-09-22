@@ -1,23 +1,16 @@
 class Solution {
     public int maxSubArray(int[] arr) {
-        
-        // Kadane's Algorithm
-
-        int sum = 0 ;
-        int max = Integer.MIN_VALUE;
-        for( int i = 0 ; i< arr.length ; i++){
-            sum += arr[i];
-            
-            if(sum > max){
-                max = sum;
+        int ans = Integer.MIN_VALUE;
+        int sum = 0;
+        for(int n: arr){
+            sum += n;
+            if(sum > ans){
+                ans = sum;
             }
-
             if(sum<0){
                 sum = 0;
             }
-            
-
         }
-        return max;
+        return ans;
     }
 }
