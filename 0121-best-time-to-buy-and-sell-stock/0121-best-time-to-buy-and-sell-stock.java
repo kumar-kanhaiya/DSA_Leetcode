@@ -1,14 +1,13 @@
 class Solution {
-    public int maxProfit(int[] nums) {
-        int firstNumber = Integer.MAX_VALUE;
-        int maxProfit = 0;
-        for(int num : nums){
-            if(num < firstNumber ){
-                firstNumber = num;
+    public static int maxProfit(int[] arr){
+        int min = Integer.MAX_VALUE;
+        int ans = 0;
+        for(int num : arr){
+            if(min > num){
+                min = num;
             }
-            
-            maxProfit = Math.max(maxProfit , num - firstNumber);
+            ans = Math.max(ans , num - min);
         }
-        return maxProfit;
+        return ans;
     }
 }
