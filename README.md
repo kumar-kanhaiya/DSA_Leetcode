@@ -31,6 +31,7 @@
 | [0189-rotate-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +99,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
