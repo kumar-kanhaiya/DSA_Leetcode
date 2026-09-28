@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -117,6 +118,7 @@
 | [0189-rotate-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -145,6 +147,7 @@
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -235,6 +239,7 @@
 | [0048-rotate-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
