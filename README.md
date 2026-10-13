@@ -61,6 +61,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -99,6 +100,7 @@
 | [0410-split-array-largest-sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
