@@ -137,6 +137,7 @@
 | [0189-rotate-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -157,6 +158,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
