@@ -57,6 +57,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -90,6 +91,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0645-set-mismatch](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
