@@ -97,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -122,6 +123,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -239,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
@@ -365,4 +368,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
