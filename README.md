@@ -148,6 +148,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -258,6 +259,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
