@@ -142,6 +142,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
@@ -333,6 +334,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
