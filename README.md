@@ -340,6 +340,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
@@ -389,5 +390,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kumar-kanhaiya/DSA_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
